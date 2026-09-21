@@ -1,0 +1,52 @@
+{
+  "name": "midnight-dew-theme",
+  "displayName": "Midnight Dew Theme",
+  "description": "A calm midnight purple and dew-light VS Code theme with carefully crafted light and dark variants.",
+  "version": "1.0.0",
+  "publisher": "lilinhuang",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "vscode-theme",
+    "light-theme",
+    "dark-theme",
+    "midnight",
+    "dew",
+    "purple",
+    "lilac",
+    "lavender",
+    "pastel",
+    "soft",
+    "minimal"
+  ],
+  "galleryBanner": {
+    "color": "#ECE5EE",
+    "theme": "light"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Dew Theme Light",
+        "uiTheme": "vs",
+        "path": "./themes/midnight-dew-theme-light-color-theme.json"
+      },
+      {
+        "label": "Midnight Dew Theme Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-dew-theme-dark-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaxicy/midnight-dew-theme"
+  },
+  "license": "SEE LICENSE IN LICENSE"
+}

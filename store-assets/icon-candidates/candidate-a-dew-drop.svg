@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+    <linearGradient id="gA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#D9C8F7"/>
+      <stop offset="55%" stop-color="#9B7DDD"/>
+      <stop offset="100%" stop-color="#6E49C9"/>
+    </linearGradient><path d="M256.0,62.1 C256.0,62.1 141.9,242.4 141.9,308.6 A114.1,114.1 0 1,0 370.1,308.6 C370.1,242.4 256.0,62.1 256.0,62.1 Z" fill="url(#gA)"/><ellipse cx="218" cy="218" rx="30" ry="50" fill="#FFFFFF" opacity="0.45" transform="rotate(-22 218 218)"/><path d="M352.0,142.0 Q352.0,168.0 378.0,168.0 Q352.0,168.0 352.0,194.0 Q352.0,168.0 326.0,168.0 Q352.0,168.0 352.0,142.0 Z" fill="#FFFFFF" opacity="0.9"/></svg>

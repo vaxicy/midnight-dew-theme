@@ -1,0 +1,6 @@
+.vscode/**
+.gitignore
+.codebuddy/**
+scripts/**
+store-assets/icon-candidates/**
+store-assets/icon/**

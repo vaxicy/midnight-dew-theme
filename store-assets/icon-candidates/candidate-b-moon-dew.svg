@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+    <linearGradient id="gBm" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#B9A2EC"/>
+      <stop offset="100%" stop-color="#6E49C9"/>
+    </linearGradient>
+    <linearGradient id="gBd" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#E7DBFB"/>
+      <stop offset="100%" stop-color="#9B7DDD"/>
+    </linearGradient>
+    <mask id="moonMask">
+      <rect width="512" height="512" fill="black"/>
+      <circle cx="250" cy="256" r="175" fill="white"/>
+      <circle cx="340" cy="206" r="167" fill="black"/>
+    </mask><circle cx="250" cy="256" r="175" fill="url(#gBm)" mask="url(#moonMask)"/><path d="M360.0,172.0 C360.0,172.0 303.0,262.2 303.0,295.3 A57.0,57.0 0 1,0 417.0,295.3 C417.0,262.2 360.0,172.0 360.0,172.0 Z" fill="url(#gBd)"/><ellipse cx="342" cy="248" rx="13" ry="22" fill="#FFFFFF" opacity="0.5" transform="rotate(-22 342 248)"/><path d="M140.0,128.0 Q140.0,150.0 162.0,150.0 Q140.0,150.0 140.0,172.0 Q140.0,150.0 118.0,150.0 Q140.0,150.0 140.0,128.0 Z" fill="#E7DBFB" opacity="0.85"/></svg>
