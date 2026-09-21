@@ -262,7 +262,6 @@ HTML_TEMPLATE = """<!doctype html>
 <body>
 <div class="win">
   <div class="titlebar">
-    <span>&nbsp;&nbsp;sample.ts - midnight-dew-theme</span>
     <span class="spacer"></span>
     <span class="winbtn min"><i></i></span>
     <span class="winbtn max"><i></i></span>
